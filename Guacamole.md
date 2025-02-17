@@ -2,5 +2,6 @@
 ## Ingredients 
 * avocado
 * lime
-* salt 
+* chocolate
+* carrot
 ## Instructions 
