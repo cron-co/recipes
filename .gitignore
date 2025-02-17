@@ -1,0 +1,12 @@
+* .txt
+receipts/ 
+2025*txt
+
+# all ways to ensure that certain files are ignored (* or / or *txt for example)
+# using a folder name is the clearest 
+
+# if theres a folder called results with a file named data or plot, how do u ignore just plots?
+
+plots/
+results/plots 
+# the second option only ignores plots in the results file
